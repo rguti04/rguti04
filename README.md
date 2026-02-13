@@ -58,21 +58,11 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<p align="center">
-  <a href="http://www.github.com/TU_GITHUB">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_GITHUB&theme=omni&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  </a>
-</p>
+
 
 <p align="center">
-  <a href="http://www.github.com/TU_GITHUB">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_GITHUB&layout=compact&langs_count=15&theme=omni&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="http://www.github.com/TU_GITHUB">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_GITHUB&theme=omni&hide_border=true" alt="GitHub Streak" />
+  <a href="http://www.github.com/rguti04">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rguti04&theme=transparent&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
